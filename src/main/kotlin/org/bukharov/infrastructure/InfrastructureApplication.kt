@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class InfrastructureApplication
 
 fun main(args: Array<String>) {
-	runApplication<InfrastructureApplication>(*args)
+    runApplication<InfrastructureApplication>(args = args)
 }
